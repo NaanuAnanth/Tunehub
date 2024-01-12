@@ -1,0 +1,20 @@
+body{
+	background-image: url("https://cdn.wallpapersafari.com/12/29/kbrCBc.jpg");
+	background-size:cover;
+	margin: 0;
+
+	background-attachment: fixed;
+	text-align: center;
+}
+
+h1{
+
+	text-decoration:underline;
+	color: white;
+}
+
+a{
+	color: white;
+	font-size: x-large;
+}
+
